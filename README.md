@@ -13,7 +13,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FOR+HELP+WATCH+YOUTUBE+VIDEO!)
 </p>
 
-- `TECH_HERO` [VIDEO LINK](https://www.youtube.com/channel/UC1YurCQcZMnWRnhTv-G8aDw) 
+- `TECH_HERO` src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/channel/UC1YurCQcZMnWRnhTv-G8aDw)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
