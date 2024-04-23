@@ -7,6 +7,15 @@
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## YOUTUBE 🌟 
+</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FOR+HELP+WATCH+YOUTUBE+VIDEO!)
+</p>
+
+- `TECH_HERO` [VIDEO LINK](https://www.youtube.com/channel/UC1YurCQcZMnWRnhTv-G8aDw) 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Variables
 
 - `HASH` Your API Hash from my.telegram.org
@@ -15,6 +24,7 @@
 - `STRING` Your pyrogram session string, 
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Usage
 
@@ -50,7 +60,10 @@ https://t.me/c/xxxx/101 - 120
 
 _note that space in between doesn't matter_
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### Credits
 
 - [TEch_Bot's](https://t.me/bots_repo)
 - [Tech Hero](https://telegram.dog/hero_botss)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
