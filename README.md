@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    # Save Restricted Bot
-
+    
+# Save Restricted Bot
 
 *A Telegram Bot, Which can send you restricted content by it's post link*
 
